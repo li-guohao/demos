@@ -1,4 +1,4 @@
-package cn.liguohao.demo;
+package cn.liguohao.demo.dp;
 
 public class Main {
     public static void main(String[] args) {
