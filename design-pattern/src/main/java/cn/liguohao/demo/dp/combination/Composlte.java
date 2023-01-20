@@ -5,7 +5,7 @@ package cn.liguohao.demo.dp.combination;
 import java.util.Arrays;
 
 /**
- * @Description TODO 组合模式 - 非叶子节点
+ * @Description  组合模式 - 非叶子节点
  * @Author liguohao
  * @Date 2020/10/2 2:58
  */

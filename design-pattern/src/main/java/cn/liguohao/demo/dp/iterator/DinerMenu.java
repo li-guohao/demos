@@ -3,7 +3,7 @@ package cn.liguohao.demo.dp.iterator;
 import java.util.Arrays;
 
 /**
- * @Description TODO 迭代器模式 - 餐厅菜单
+ * @Description  迭代器模式 - 餐厅菜单
  * @Author liguohao
  * @Date 2020/10/2 2:16
  */

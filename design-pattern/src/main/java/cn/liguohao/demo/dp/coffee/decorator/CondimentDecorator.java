@@ -3,7 +3,7 @@ package cn.liguohao.demo.dp.coffee.decorator;
 import cn.liguohao.demo.dp.coffee.origin.Beverage;
 
 /**
- * @Description TODO condiment, a decorator for beverage.
+ * @Description  condiment, a decorator for beverage.
  * @Author liguohao
  * @Date 2020/9/20 22:31
  */

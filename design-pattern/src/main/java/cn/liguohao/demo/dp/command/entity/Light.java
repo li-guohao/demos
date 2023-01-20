@@ -1,7 +1,7 @@
 package cn.liguohao.demo.dp.command.entity;
 
 /**
- * @Description TODO 灯
+ * @Description  灯
  * @Author liguohao
  * @Date 2020/9/24 23:00
  */

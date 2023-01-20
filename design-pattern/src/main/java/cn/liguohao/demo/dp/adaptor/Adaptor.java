@@ -1,7 +1,7 @@
 package cn.liguohao.demo.dp.adaptor;
 
 /**
- * @Description TODO 适配器模式-适配器
+ * @Description  适配器模式-适配器
  * @Author liguohao
  * @Date 2020/9/30 9:31
  */

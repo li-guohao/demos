@@ -1,7 +1,7 @@
 package cn.liguohao.demo.dp.adaptor;
 
 /**
- * @Description TODO 火鸡适配器, 适配鸭子
+ * @Description  火鸡适配器, 适配鸭子
  * @Author liguohao
  * @Date 2020/9/30 9:21
  */

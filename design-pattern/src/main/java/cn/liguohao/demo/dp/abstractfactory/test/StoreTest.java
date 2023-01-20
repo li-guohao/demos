@@ -4,7 +4,7 @@ import cn.liguohao.demo.dp.abstractfactory.pizza.Pizza;
 import cn.liguohao.demo.dp.abstractfactory.store.NYPizzaStore;
 
 /**
- * @Description TODO
+ * @Description
  * @Author liguohao
  * @Date 2020/9/21 16:27
  */

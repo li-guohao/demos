@@ -3,7 +3,7 @@ package cn.liguohao.demo.dp.abstractfactory.pizza;
 import cn.liguohao.demo.dp.abstractfactory.factory.PizzaIngredientAbstractFactory;
 
 /**
- * @Description TODO
+ * @Description
  * @Author liguohao
  * @Date 2020/9/21 16:07
  */

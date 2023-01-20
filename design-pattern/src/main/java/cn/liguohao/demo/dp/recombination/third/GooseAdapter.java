@@ -1,7 +1,7 @@
 package cn.liguohao.demo.dp.recombination.third;
 
 /**
- * @Description TODO 鸭子的鹅适配器
+ * @Description  鸭子的鹅适配器
  * @Author liguohao
  * @Date 2020/10/5 12:41
  */

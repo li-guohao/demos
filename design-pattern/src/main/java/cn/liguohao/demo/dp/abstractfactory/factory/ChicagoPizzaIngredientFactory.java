@@ -16,7 +16,7 @@ import cn.liguohao.demo.dp.abstractfactory.veggies.Spinach;
 import cn.liguohao.demo.dp.abstractfactory.veggies.Veggies;
 
 /**
- * @Description TODO
+ * @Description
  * @Author liguohao
  * @Date 2020/9/21 15:38
  */

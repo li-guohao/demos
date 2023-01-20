@@ -5,7 +5,7 @@ import cn.liguohao.demo.dp.command.entity.Light;
 import cn.liguohao.demo.dp.command.entity.RemoteControl;
 
 /**
- * @Description TODO
+ * @Description
  * @Author liguohao
  * @Date 2020/9/24 23:03
  */

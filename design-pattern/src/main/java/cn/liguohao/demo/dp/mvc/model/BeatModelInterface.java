@@ -3,7 +3,7 @@ package cn.liguohao.demo.dp.mvc.model;
 import cn.liguohao.demo.dp.mvc.observer.Observer;
 
 /**
- * @Description TODO
+ * @Description 
  * @Author liguohao
  * @Date 2020/10/5 15:47
  */

@@ -1,7 +1,7 @@
 package cn.liguohao.demo.dp.state;
 
 /**
- * @Description TODO 状态B
+ * @Description  状态B
  * @Author liguohao
  * @Date 2020/10/3 16:35
  */

@@ -3,7 +3,7 @@ package cn.liguohao.demo.dp.command.entity;
 import cn.liguohao.demo.dp.command.Command;
 
 /**
- * @Description TODO 遥控器
+ * @Description  遥控器
  * @Author liguohao
  * @Date 2020/9/24 23:03
  */
