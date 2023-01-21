@@ -35,4 +35,14 @@ class SortTest {
         System.out.println();
         Arrays.stream(arr).forEach(System.out::println);
     }
+
+    @Test
+    void mergeSort() {
+        MergeSort mergeSort = new MergeSort();
+        int[] arr = {1, 7, 2, 0, 8, 778};
+        Arrays.stream(arr).forEach(System.out::println);
+        mergeSort.sort(arr);
+        System.out.println();
+        Arrays.stream(arr).forEach(System.out::println);
+    }
 }
