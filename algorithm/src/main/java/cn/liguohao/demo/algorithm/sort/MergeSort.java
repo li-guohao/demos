@@ -1,5 +1,13 @@
 package cn.liguohao.demo.algorithm.sort;
 
+/**
+ * <h1>归并排序</h1>
+ * <p>介绍：使用递归的思想将数组分区</p>
+ * <p>复杂度：时间O(n*logn) 空间O(n)</p>
+ * <p>稳定性：支持</p>
+ * <p>指针：</p>
+ * <p>过程：</p>
+ */
 public class MergeSort implements Sort {
     @Override
     public void sort(int[] arr) {
